@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Counseling Details</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Organization Counseling Details</h1>
+    <p>Your mental wellness and academic support center</p>
+  </header>
+
+  <main>
+    <section class="counselors">
+      <div class="counselor-card">
+        <h2>Dr. Anjali Mehra</h2>
+        <p><strong>Department:</strong> Psychology</p>
+        <p><strong>Timing:</strong> Mon–Fri, 10:00 AM – 1:00 PM</p>
+        <p><strong>Email:</strong> anjali@org.edu</p>
+      </div>
+      <div class="counselor-card">
+        <h2>Mr. Rajiv Khanna</h2>
+        <p><strong>Department:</strong> Student Affairs</p>
+        <p><strong>Timing:</strong> Tue & Thu, 2:00 PM – 5:00 PM</p>
+        <p><strong>Email:</strong> rajiv.khanna@org.edu</p>
+      </div>
+      <div class="counselor-card">
+        <h2>Ms. Priya Sharma</h2>
+        <p><strong>Department:</strong> Career Counseling</p>
+        <p><strong>Timing:</strong> Mon–Fri, 11:00 AM – 4:00 PM</p>
+        <p><strong>Email:</strong> priya.sharma@org.edu</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Organization Name | All rights reserved</p>
+  </footer>
+</body>
+</html>
+
